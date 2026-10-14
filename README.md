@@ -2,7 +2,7 @@
 FIUBA - Electrónica - Taller de Sistemas Embebidos - Trabajo Práctico N°: 4
 
 # FIUBA - Electrónica - Taller de Sistemas Embebidos 
-## Trabajo Práctico N°: 3 - LCD Display - System Setup Menu 
+## Trabajo Práctico N°: 4
 ### Año-Cuatrimestre - Curso-Grupo 
 ### Responsable de la entrega: 
 
