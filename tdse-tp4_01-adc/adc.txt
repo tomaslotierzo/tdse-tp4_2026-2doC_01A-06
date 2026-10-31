@@ -1,5 +1,0 @@
-TEST 1: Lee punto y devuelve el valor del potenciometro en ese momento, eso 100 veces
-
-TEST 2: Toma 16 valores del potenciometro y calcula el promedio, eso 100 veces.
-
-TEST 3: Toma un vector de 100 muestras y las devuelve todas juntas.
