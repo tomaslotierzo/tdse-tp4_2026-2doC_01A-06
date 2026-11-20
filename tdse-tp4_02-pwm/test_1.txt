@@ -1,0 +1,4 @@
+Comentarios del Test 1
+
+> Aparece una señal periodica de tension pico 3.3V, el periodo es de 1 ms y no se modifica, se modifica el ancho de los pulsos y por lo tanto el duty cycle.
+> El led varia la intensidad del brillo suavemente.
