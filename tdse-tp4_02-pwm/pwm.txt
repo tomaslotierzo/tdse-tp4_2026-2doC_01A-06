@@ -1,0 +1,4 @@
+En el Test 1 solo se modifica el duty cicle y varía la intensidad del brillo del led.
+Sin embargo, en el Test 2 solo se modifica el periodo y no varía la intensidad del brillo del led.
+
+Conclusion: la intensidad del brillo del led depende del duty cycle de la señal.
